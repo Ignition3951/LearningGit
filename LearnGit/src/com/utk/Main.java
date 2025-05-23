@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("C4!!!");
 		System.out.println("C5!!!");
 		System.out.println("C6!!!");
+		System.out.println("C7!!!");
 	}
 	
 
